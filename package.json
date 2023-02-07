@@ -1,0 +1,15 @@
+{
+  "name": "bootcamp_07-02-23_functionreadfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kahfi Kurnia Aji",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
+}
